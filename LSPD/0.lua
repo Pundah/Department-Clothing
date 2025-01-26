@@ -1,6 +1,6 @@
 ----------------------USE ME IF AT A CLOTHING SHOP---------------------
 ['grade level'] = 0 -- The Rank
-['outfit label'] = "Long Sleeve" -- Ex Long Sleeve
+['outfit label'] = "Probationary Officer | T-Shirt" -- Ex Long Sleeve
 ['arms'] = {item = 1, texture = 0,}, -- Arms
 ['t-shirt'] = {item = 220, texture = 0}, -- Undershirt/Belts
 ['torso2'] = {item = 567, texture = 0}, -- Jackets/Tops
