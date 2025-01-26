@@ -3,7 +3,7 @@
 # FivePD Department Clothing
 
 By default, all clothing outfits have been made for just the lowest rank in your department. It is up to Chain of Command  to submit the below layout to Head Of FivePD to add additional outfits. Please download and send each outfit as its own template.
-### How to use - QB-Shop
+## How to use - QB-Shop
 Download the latest template from [here](https://github.com/Sublime-Gaming/Department-Clothing/releases/latest).
 
 Open ``QB-Shop Template`` in a notepad editor. (We suggest [Notepad++](https://notepad-plus-plus.org/downloads/))
@@ -19,7 +19,7 @@ If the pants that I want is number 23, with the third texture, then the template
 
 **Submit to Head of FivePD when complete**
 
-### How to use - vMenu
+## How to use - vMenu
 Download the latest template from [here](https://github.com/Sublime-Gaming/Department-Clothing/releases/latest).
 
 Open ``vMenu Template`` in a notepad editor. (We suggest [Notepad++](https://notepad-plus-plus.org/downloads/))
