@@ -12,3 +12,5 @@
 ['mask'] = {item = 0, texture = 0} -- Mask
 ['hat'] = {item = -1, texture = 0}, -- Hat
 ['glass'] = {item = 0, texture = 0}, -- Glasses
+['decals'] = {item = 0, texture = 0}, -- Decals
+['ear'] = {item = 0, texture = 0}, -- Ear accessories
